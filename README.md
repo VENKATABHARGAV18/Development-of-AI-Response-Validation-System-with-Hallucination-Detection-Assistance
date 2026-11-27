@@ -1,5 +1,4 @@
 # Development-of-AI-Response-Validation-System-with-Hallucination-Detection-Assistance
-### An Intelligent Multi-Agent Framework for AI Response Validation and Hallucination Detection
 
 <p align="center">
   <strong>Development of AI Response Validation System with Hallucination Detection Assistance</strong>
